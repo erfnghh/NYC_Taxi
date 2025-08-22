@@ -121,7 +121,7 @@ def clean_taxi_data(df):
 - **Pricing Strategy**: 
 
 <div align="center">
-<img src="images/pricing_strategy.png" width="650" 
+<img src="images/pricing strategy.png" width="650" 
      alt="Pricing Strategy Analysis"
      style="border-radius: 8px; 
             border: 1px solid #e1e4e8;
